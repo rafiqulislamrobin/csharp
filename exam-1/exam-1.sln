@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "problem-1", "problem-1\problem-1.csproj", "{8EE004FC-13F8-4ED9-8046-910057F663F5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "problem-2", "problem-2\problem-2.csproj", "{E344DFEE-2B7E-4A8D-90DB-33EEDA643E6D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "problem-3", "problem-3\problem-3.csproj", "{D4439EB5-7A72-4D7B-AC84-105DD492559C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8EE004FC-13F8-4ED9-8046-910057F663F5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8EE004FC-13F8-4ED9-8046-910057F663F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8EE004FC-13F8-4ED9-8046-910057F663F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8EE004FC-13F8-4ED9-8046-910057F663F5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E344DFEE-2B7E-4A8D-90DB-33EEDA643E6D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E344DFEE-2B7E-4A8D-90DB-33EEDA643E6D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E344DFEE-2B7E-4A8D-90DB-33EEDA643E6D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E344DFEE-2B7E-4A8D-90DB-33EEDA643E6D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D4439EB5-7A72-4D7B-AC84-105DD492559C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D4439EB5-7A72-4D7B-AC84-105DD492559C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D4439EB5-7A72-4D7B-AC84-105DD492559C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D4439EB5-7A72-4D7B-AC84-105DD492559C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F931E66F-30BE-48FD-B745-A56C7623B05A}
+	EndGlobalSection
+EndGlobal

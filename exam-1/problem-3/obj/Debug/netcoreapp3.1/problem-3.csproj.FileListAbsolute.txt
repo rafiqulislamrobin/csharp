@@ -1,0 +1,13 @@
+G:\c#\csharp\exam\exam-1\problem-3\bin\Debug\netcoreapp3.1\problem-3.exe
+G:\c#\csharp\exam\exam-1\problem-3\bin\Debug\netcoreapp3.1\problem-3.deps.json
+G:\c#\csharp\exam\exam-1\problem-3\bin\Debug\netcoreapp3.1\problem-3.runtimeconfig.json
+G:\c#\csharp\exam\exam-1\problem-3\bin\Debug\netcoreapp3.1\problem-3.runtimeconfig.dev.json
+G:\c#\csharp\exam\exam-1\problem-3\bin\Debug\netcoreapp3.1\problem-3.dll
+G:\c#\csharp\exam\exam-1\problem-3\bin\Debug\netcoreapp3.1\problem-3.pdb
+G:\c#\csharp\exam\exam-1\problem-3\obj\Debug\netcoreapp3.1\problem-3.csprojAssemblyReference.cache
+G:\c#\csharp\exam\exam-1\problem-3\obj\Debug\netcoreapp3.1\problem-3.AssemblyInfoInputs.cache
+G:\c#\csharp\exam\exam-1\problem-3\obj\Debug\netcoreapp3.1\problem-3.AssemblyInfo.cs
+G:\c#\csharp\exam\exam-1\problem-3\obj\Debug\netcoreapp3.1\problem-3.csproj.CoreCompileInputs.cache
+G:\c#\csharp\exam\exam-1\problem-3\obj\Debug\netcoreapp3.1\problem-3.dll
+G:\c#\csharp\exam\exam-1\problem-3\obj\Debug\netcoreapp3.1\problem-3.pdb
+G:\c#\csharp\exam\exam-1\problem-3\obj\Debug\netcoreapp3.1\problem-3.genruntimeconfig.cache

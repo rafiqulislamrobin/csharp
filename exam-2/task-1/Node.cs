@@ -20,13 +20,13 @@ namespace task_1
         {
 
         }
-        public int Add(int size)
+        public void Add(int[] size)
         {
-            return size;
+            
         }
-        public int remove(int size)
+        public void remove(int[] size)
         {
-            return size;
+            
         }
     }
 

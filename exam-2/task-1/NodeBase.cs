@@ -4,7 +4,7 @@ using System.Text;
 
 namespace task_1
 {
-    public abstract class NodeBase<N, INode> : INode<N, INode> where N : class
+    public abstract class NodeBase<N, M> : INode<N, M> where N : class ,new ()where M : INode<N, M>
     {
         protected virtual string Email { get; set; }
     public void Add(N item)

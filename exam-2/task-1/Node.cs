@@ -4,7 +4,7 @@ using System.Text;
 
 namespace task_1
 {
-    public class Node<N, INode> : NodeBase<N, INode> where N : class
+    public class Node<N, M> : NodeBase<N, M> where N : class,new ()where M: INode<N,M>
     {
        protected override string Email { get => base.Email;
             set => base.Email = "rafiqu@email.com"; }

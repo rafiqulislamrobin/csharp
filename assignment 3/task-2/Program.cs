@@ -26,17 +26,18 @@ namespace task_2
 
             };
 
+           var someNames= studentList.Where(x => x.Age>20);
 
-            var result = from item in studentList
+            var result = from item in someNames
                          orderby item.Age descending , item.Name ascending
                          select item;
 
             foreach (var n in result)
             {
-                if (n.Age >= 20)
-                {
+                
+                
                     Console.WriteLine($"Age {n.Age} : Name {n.Name}");
-                }
+                
 
                 
             }

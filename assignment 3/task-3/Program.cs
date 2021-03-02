@@ -18,10 +18,7 @@ namespace task_3
                 Console.WriteLine($"your ans is {z}\n");
             }
 
-            catch(DivideByZeroException)
-            {
-                Console.WriteLine("We cant divide any number by 0");
-            }
+
             catch (Exception ex)
             {
 
